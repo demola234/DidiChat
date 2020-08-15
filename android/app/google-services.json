@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "204121366831",
+    "firebase_url": "https://didi-chatapp.firebaseio.com",
+    "project_id": "didi-chatapp",
+    "storage_bucket": "didi-chatapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:204121366831:android:7cbc6651cb46056fa0c1da",
+        "android_client_info": {
+          "package_name": "com.example.didicodes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "204121366831-qituftpvqn0nvq443of69e8bkno41u9h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.didicodes",
+            "certificate_hash": "38276144456ed62134483296831cd54cc562f7b0"
+          }
+        },
+        {
+          "client_id": "204121366831-d6or12b05qe4khk304olcn7ssqhj0one.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMD99OmfN3uczEtqTyGjZuQXmdc_P1rvE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "204121366831-d6or12b05qe4khk304olcn7ssqhj0one.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
