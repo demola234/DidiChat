@@ -1,4 +1,4 @@
-# Flutter DidiChatApp [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter Follow](https://img.shields.io/twitter/follow/AdemolaDi.svg?style=social)](https://twitter.com/AdemolaDi)
+# DidiChatApp [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![Twitter Follow](https://img.shields.io/twitter/follow/AdemolaDi.svg?style=social)](https://twitter.com/AdemolaDi)
 
 A Simple Chat Application With Firebase Authentication and Firebase Storage and Firebase Cloud.
 Emoji's And Images Are Also Supported.
@@ -23,6 +23,14 @@ Please Star This Repository!
 - [x] View Full Image Functionality.
 
 ## 📸 ScreenShots
+<img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/bg.gif" height="300"/>
+
+|------|-------|
+|<img src="<img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/st.gif" width="400">|<img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/md.gif" width="400">|
+|<img src="<img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/ed.gif" width="400">|<img src="<img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/1.jpg" width="400">|
+|<img src="<img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/2.jpg" width="400">|<img src="<img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/3.jpg" width="400">|
+|<img src="<img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/4.jpg" width="400">|<img src="<img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/5.jpg" width="400">|
+
 
 ## 🔌 Dependencies
 | Name | Usage |
@@ -30,7 +38,7 @@ Please Star This Repository!
 |[**Shared Preferences**](https://pub.dev/packages/shared_preferences)| Shared Preferences|
 |[**FireBase Auth**](https://pub.dev/packages/firebase_auth)| FireBase Authentication|
 |[**Image Picker**](https://pub.dev/packages/image_picker)| Select Image From Device|
-|[**Flutter Toast**](https://pub.dev/packages/fluttertoast)| Display Toast Message On Success Or Fail|
+|[**Flutter Toast**](https://pub.dev/packages/fluttertoast)| Display Toast Message|
 |[**Photo View**](https://pub.dev/packages/photo_view)| To View Uploaded Images|
 |[**Intl**](https://pub.dev/packages/intl)| Plugin To Manage Date And Time|
 |[**Firebase Messaging**](https://pub.dev/packages/firebase_messaging)|Firebase Messaging |
