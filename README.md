@@ -8,7 +8,7 @@ Emoji's And Images Are Also Supported.
 <a href="http://download1523.mediafire.com/47ofh2ic5wdg/tk77cflsp5alb6j/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 <br>
 
-Please Star This Repository!
+Please Star💫 This Repository!
 
 ## 💻 Requirements
 * Any Operating System (ie. MacOS X, Linux, Windows)
@@ -25,7 +25,7 @@ Please Star This Repository!
 ## 📸 ScreenShots
 <img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/bg.gif" height="300"/>
 
-| ScreenShots| ScreenShots|
+|💮 ScreenShots| 💮ScreenShots|
 |------|-------|
 |<img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/st.gif" width="400">|<img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/md.gif" width="400">|
 |<img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/ed.gif" width="400">|<img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/1.jpg" width="400">|
@@ -49,11 +49,11 @@ Please Star This Repository!
 |[**Firebase Storage**](https://pub.dev/packages/firebase_storage)|Firebase Storage|
 |[**FontAwesome**](https://pub.dev/packages/font_awesome_flutter)|FontAwesome|
 
-## How To Run
+## 👨‍💻 How To Run
 * Clone The Repo
 * Run `Flutter packages get`
 * Run `Flutter run`
 
-## 🤓 Author
+## 🧒🏾 Author
 **Kolawole Ademola** [![Twitter Follow](https://img.shields.io/twitter/follow/AdemolaDi.svg?style=social)](https://twitter.com/AdemolaDi)
 
