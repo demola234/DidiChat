@@ -25,6 +25,7 @@ Please Star This Repository!
 ## 📸 ScreenShots
 <img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/bg.gif" height="300"/>
 
+| Light| Dark|
 |------|-------|
 |<img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/st.gif" width="400">|<img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/md.gif" width="400">|
 |<img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/ed.gif" width="400">|<img src="<img src="https://raw.githubusercontent.com/demola234/DidiChat/master/ScreenShots/1.jpg" width="400">|
