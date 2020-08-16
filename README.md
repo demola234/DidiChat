@@ -5,7 +5,7 @@ Emoji's And Images Are Also Supported.
 
 <br>
 <br>
-<a href="http://download1523.mediafire.com/47ofh2ic5wdg/tk77cflsp5alb6j/app-release.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
+<a href="https://download1265.mediafire.com/r82iuvdzjlmg/fe3pacymv1nneht/DIDICHAT.apk"><img src="https://playerzon.com/asset/download.png" width="200"></img></a>
 <br>
 
 Please Star💫 This Repository!
