@@ -28,7 +28,7 @@ Please Star This Repository!
 | Name | Usage |
 |------|-------|
 |[**Shared Preferences**](https://pub.dev/packages/shared_preferences)| Shared Preferences|
-|[**FireBase Auth**](https://pub.dev/packages/ firebase_auth)| FireBase Authentication|
+|[**FireBase Auth**](https://pub.dev/packages/firebase_auth)| FireBase Authentication|
 |[**Image Picker**](https://pub.dev/packages/image_picker)| Select Image From Device|
 |[**Flutter Toast**](https://pub.dev/packages/fluttertoast)| Display Toast Message On Success Or Fail|
 |[**Photo View**](https://pub.dev/packages/photo_view)| To View Uploaded Images|
